@@ -69,5 +69,6 @@
     <module>05_zuul_app1</module>
     <module>05_zuul_app2</module>
     <module>05_zuul_proxy</module>
+    <module>02_eurekaclient2</module>
 	</modules>
 </project>

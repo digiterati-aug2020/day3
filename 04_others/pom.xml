@@ -9,11 +9,6 @@
   <name>others</name>
   <description>others</description>
   <dependencies>
-  <dependency>
-          <groupId>org.springframework.cloud</groupId>
-          <artifactId>spring-cloud-starter-feign</artifactId>
-          <version>1.4.7.RELEASE</version>
-    </dependency>
     
     <dependency>
     <groupId>org.json</groupId>
